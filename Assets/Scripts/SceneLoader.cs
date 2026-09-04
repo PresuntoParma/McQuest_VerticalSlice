@@ -18,12 +18,6 @@ public class SceneLoader : MonoBehaviour
 
     }
 
-
-
-
-
-
-
 }
 
 
