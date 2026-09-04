@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/Scenes/CheckInScene.unity
     guid: fef42eb8ae9ad314581eccf8a00e296c
   - enabled: 1
+    path: Assets/Scenes/BossScene.unity
+    guid: a63954d70bbab4541a2117cf6b0d41a2
+  - enabled: 1
+    path: Assets/Scenes/EmployeePostBossScene.unity
+    guid: d9692170a13eb484e86817a50a6e5678
+  - enabled: 1
     path: Assets/Scenes/EmployeePostTurnScene.unity
     guid: dc4e9666a43c2db4f9a9fbb35a3056e9
   - enabled: 1
