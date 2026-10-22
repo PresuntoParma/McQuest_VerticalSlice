@@ -3,7 +3,12 @@ guid: edebf2575e6b18b4a9c3283596da4e9f
 ModelImporter:
   serializedVersion: 24501
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "batat\xE3ofrit\xE3o_mat"
+    second: {fileID: 2100000, guid: af8fd8624e1fc0e4d978675c0099a228, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
